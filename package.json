@@ -1,0 +1,28 @@
+{
+  "name": "proxy-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.17",
+    "@types/node": "^18.15.11",
+    "@types/vhost": "^3.0.4",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fecha": "^4.2.3",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "http-proxy-middleware": "^2.0.6",
+    "https": "^1.0.0",
+    "node": "^19.8.1",
+    "tls": "^0.0.1",
+    "typescript": "^5.0.3",
+    "vhost": "^3.0.2",
+    "winston": "^3.8.2"
+  }
+}
